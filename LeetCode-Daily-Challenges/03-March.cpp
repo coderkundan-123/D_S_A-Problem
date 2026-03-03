@@ -2,9 +2,7 @@
 Space complexity: O(n)
 */
 
-#include <iostream>
-#include <cmath>
-using namespace std;
+/* A similar problem is 779, which is based on the same approach. */
 
 class Solution {
 public:    
