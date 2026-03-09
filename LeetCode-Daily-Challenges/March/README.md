@@ -8,3 +8,4 @@
 | 06-March | [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | [View Code](./06-March.cpp) |
 | 07-March | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium | [View Code](./07-March.cpp) |
 | 08-March | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [View Code](./08-March.cpp) |
+| 09-March | [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | [View Code](./09-March.cpp) |
