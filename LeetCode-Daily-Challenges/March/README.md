@@ -9,3 +9,4 @@
 | 07-March | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium | [View Code](./07-March.cpp) |
 | 08-March | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [View Code](./08-March.cpp) |
 | 09-March | [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | [View Code](./09-March.cpp) |
+| 10-March | [3130. Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard | [View Code](./10-March.cpp) |
