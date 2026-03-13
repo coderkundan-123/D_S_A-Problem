@@ -12,3 +12,4 @@
 | 10-March | [3130. Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard | [View Code](./10-March.cpp) |
 | 11-March | [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | [View Code](./11-March.cpp) |
 | 12-March | [3600. Maximize Spanning Tree Stability](https://leetcode.com/problems/maximize-spanning-tree-stability/) | Hard | [View Code](./12-March.cpp) |
+| 13-March | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | [View Code](./13-March.cpp) |
