@@ -39,3 +39,29 @@ printDuplicates(s);
 
 OUT PUT 
 ['e', 4], ['g', 2], ['k', 2], ['s', 2], 
+
+/***** sec - meth *********/
+   #include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main() {
+    string s = "geeksforgeeks";
+    sort(s.begin(), s.end());
+
+    for(int i = 0; i < s.length();) {
+        int count = 1;
+
+        while(i + count < s.length() && s[i] == s[i + count]) {
+            count++;
+        }
+
+        if(count > 1) {
+            cout << s[i] << " " << count << endl;
+        }
+
+        i += count;
+    }
+
+    return 0;
+}
