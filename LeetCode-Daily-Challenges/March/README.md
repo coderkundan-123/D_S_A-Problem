@@ -14,3 +14,4 @@
 | 12-March | [3600. Maximize Spanning Tree Stability](https://leetcode.com/problems/maximize-spanning-tree-stability/) | Hard | [View Code](./12-March.cpp) |
 | 13-March | [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium | [View Code](./13-March.cpp) |
 | 14-March | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [View Code](./14-March.cpp) |
+| 15-March | [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard | [View Code](./15-March.cpp) |
