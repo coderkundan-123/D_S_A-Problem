@@ -16,3 +16,4 @@
 | 14-March | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [View Code](./14-March.cpp) |
 | 15-March | [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard | [View Code](./15-March.cpp) |
 | 16-March | [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium | [View Code](./16-March.cpp) |
+| 17-March | [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium | [View Code](./17-March.cpp) |
