@@ -21,3 +21,4 @@
 | 19-March | [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | Medium | [View Code](./19-March.cpp) |
 | 20-March | [3567. Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | Medium | [View Code](./20-March.cpp) |
 | 21-March | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | Easy | [View Code](./21-March.cpp) |
+| 23-March | [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium | [View Code](./23-March.cpp) |
