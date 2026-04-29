@@ -1,4 +1,4 @@
-/* DFS traversal */
+/* DFS traversal  BFS both are time and s.c same */
 /* Time Complexity
      O(V + E)
   Space Complexity
@@ -29,4 +29,31 @@ class Solution {
 };
 
 /* BFS traversal */
-
+class Solution {
+  public:
+    void bfs(vector<vector<int>> &adj, int st, vector<bool> &vis, vector<int> &ans){
+       queue<int> q;
+       q.push(st);
+       vis[st] = true;
+       
+       while(!q.empty()){
+           int curr = q.front();
+           q.pop();
+           ans.push_back(curr);
+           for(int v: adj[curr]){
+               if(!vis[v]){
+                   vis[v] = true;
+                   q.push(v);
+               }
+           }
+       }
+    }
+    vector<int> bfs(vector<vector<int>> &adj) {
+        // code here
+        int n = adj.size();
+        vector<int> ans;
+        vector<bool> vis(n,false);
+        bfs(adj, 0, vis, ans);
+        return ans;
+    }
+};
